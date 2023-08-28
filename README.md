@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 
 ### hello
 
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=Artificial+Intelligence+Undergratuate;Web+Application+Developer;Tech+Lover;2%2B+Years+Of+Working+Experience" alt="Typing SVG" /></a>
-</p>
-
