@@ -4,10 +4,10 @@ Hello 👋 <br>
 ========================================================================================================================================
 
 
-* 🌱 I’m currently following Computer System And Network Engineering degree 
-* 👯 I’m looking to collaborate on programming and System Development
+* 🌱 I’m currently following Computer System And Network Engineering degree. 
+* 👯 I’m looking to collaborate on programming and System Development.
 * 🔭 I’m currently working on Kuliyapitiya.
-* 🌍  I'm based in Pannala
+* 🌍  I'm based in Pannala, Sri lanka.
  <br><br>
 * 💬 Ask me about ------- Email:- deshanexe@gmail.com
 
