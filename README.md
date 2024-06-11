@@ -4,10 +4,10 @@ Hello 👋 <br>
 ========================================================================================================================================
 
 
-* 🌱 Software Engineering Undergraduate at SLIIT
-* 👯 I’m looking to collaborate on programming and System Development.
-* 🔭 I’m currently working on Malabe.
-* 🌍  I'm based in Pannala, Sri Lanka.
+* Software Engineering Undergraduate at SLIIT
+* I’m looking to collaborate on programming and System Development.
+* I’m currently working on Malabe.
+* I'm based in Pannala, Sri Lanka.
  <br><br>
 * 💬 Ask me about ------- Email:- deshanexe@gmail.com
 
